@@ -20,7 +20,7 @@ Membandingkan performa beberapa model seperti Linear Regression, Random Forest, 
 
 Memberikan rekomendasi bisnis berdasarkan hasil analisis dan model.
 
-📚 Data Understanding
+## 📚 Data Understanding
 
 Dataset berisi data operasional pengiriman yang merekam kondisi pengantaran dan karakteristik kurir.
 Variabel-variabel dalam dataset mencakup:
@@ -76,7 +76,8 @@ Delivery_Time_min	Target : Total waktu pengiriman
 - Cuaca buruk dan jam sibuk meningkatkan risiko keterlambatan.
 - Ada beberapa outlier yang kemungkinan menunjukkan kasus ekstrem seperti hujan deras atau kemacetan parah.
 
-💼 Business Recommendations
+## 💼 Business Recommendations
+
 ✔️ 1. Optimalkan Alur Persiapan di Restoran
 - Karena preparation time sangat berpengaruh, restoran dapat:
    - Mengurangi bottleneck dapur
